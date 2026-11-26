@@ -1,0 +1,8 @@
+# Ignore CMake build outputs
+/build/
+bin/
+obj/
+*.exe
+*.obj
+CMakeCache.txt
+CMakeFiles/
